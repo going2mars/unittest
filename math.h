@@ -7,6 +7,7 @@ extern "C" {
 int sub(int, int);
 int add(int, int);
 int div(int, int);
+int mul(int, int);
 
 #ifdef __cplusplus
 }
